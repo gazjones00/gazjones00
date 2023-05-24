@@ -3,7 +3,7 @@
 [<img src="https://user-images.githubusercontent.com/50641262/209982763-6594b633-f089-49c2-ab2c-bb84184f478a.png"/>](https://twitter.com/gazjones00) 
 
 
-👨🏻‍💻 I'm currently working as a Lead Engineer @ [Lounge](https://loungeunderwear.com)<br/>
+👨🏻‍💻 I'm currently working as Head of Engineering @ [Lounge](https://loungeunderwear.com)<br/>
 🏆 Winner of the Digital/Creative Talent Mainframe Award<br/>
 🏅 Great British Entrepreneur Awards Finalist<br/>
 
